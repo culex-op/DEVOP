@@ -2,8 +2,6 @@
 
 A sleek and responsive music streaming app inspired by Spotify, built with **React 18**, **Tailwind CSS**, and **Redux Toolkit**. It uses the **Shazam Core API** to fetch real-time music data like top charts, artist details, and song previews.
 
-![App UI](https://i.ibb.co/mFh2kGZ/Thumbnail-2.png)
-
 ---
 
 ## 🚀 Features
@@ -35,5 +33,3 @@ A sleek and responsive music streaming app inspired by Spotify, built with **Rea
 ```bash
 git clone https://github.com/your-username/music-app.git
 cd music-app
-
-
